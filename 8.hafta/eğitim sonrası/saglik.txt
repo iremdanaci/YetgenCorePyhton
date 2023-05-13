@@ -1,0 +1,6 @@
+kullanici adiirem
+kullanici yas, kilo, boy bilgisi 22, 57.0, 1.7
+kullanici vucut kitle indexi 19.7
+deðer araligi normal kilolu
+oluþturulma tarihi: Sat May 13 22:46:30 2023
+********************
